@@ -1,0 +1,18 @@
+{
+  "name": "setInterval",
+  "version": "1.0.0-alpha.1",
+  "description": "requestAninmation replace setInterval",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "dev": "webpack --watch --progress --color"
+  },
+  "author": "wangjunfa",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^4.28.2"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.1.2"
+  }
+}
